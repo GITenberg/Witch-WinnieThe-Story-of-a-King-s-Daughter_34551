@@ -1,0 +1,36 @@
+_repo: Witch-WinnieThe-Story-of-a-King-s-Daughter_34551
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34551-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Champney, Elizabeth W. (Elizabeth Williams)
+    aliases:
+    - Champney, Mrs. J. W.
+    - Champney, Lizzie W. (Lizzie Williams)
+    birthdate: 1850
+    deathdate: 1922
+    gutenberg_agent_id: '32897'
+    url: http://www.gutenberg.org/2009/agents/32897
+description: ''
+gutenberg_issued: '2010-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34551'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Charity -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Young women -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Boarding schools -- Juvenile fiction'
+- !lcsh 'Poverty -- Juvenile fiction'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcsh 'Courtship -- Juvenile fiction'
+title: 'Witch Winnie: The Story of a "King''s Daughter"'
+url: http://www.gutenberg.org/ebooks/34551
